@@ -1,0 +1,3 @@
+insert into user(user_id,user_password,user_firstname,user_lastname,user_email,user_phone,user_address,user_status,role) 
+values("Group6","4022b94c8b42bdae110a357a2cf47571","Group6","Group6","Group6@gmail.com","9876543210","Kharghar, Navi Mumbai", 
+"Inactive","Admin");
