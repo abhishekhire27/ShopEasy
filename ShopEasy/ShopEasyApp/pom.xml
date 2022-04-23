@@ -27,7 +27,7 @@
   
   
    <properties>
-  	<spring.version>4.3.20.RELEASE</spring.version>
+  	<spring.version>5.3.19</spring.version>
   	<aspectj.version>1.8.13</aspectj.version>
   	<mysql.connector.java.version>5.1.6</mysql.connector.java.version>
   	<hibernate.version>4.3.0.Final</hibernate.version>
